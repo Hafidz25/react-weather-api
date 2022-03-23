@@ -1,0 +1,11 @@
+.heading {
+    padding: 2rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2rem;
+    margin-top: 80px;
+}
+
+.light {
+    font-weight: 100;
+}
